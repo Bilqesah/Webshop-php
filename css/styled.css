@@ -1,0 +1,49 @@
+.content{
+    margin-top: 20px;
+}
+.card-add form {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+label {
+    display: block;
+    font-size: 16px;
+    /* font-weight: bold; */
+    margin-bottom: 10px;
+}
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.add{
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    /* margin-top: 20px; */
+}
+
+
+.nav-link{
+    color:#333;
+    font-weight: bold;
+  }
+  .nav-link:hover{
+color: #4caf50;
+}
+.siz{
+    height: 230px;
+   }
